@@ -21,5 +21,5 @@ targets:
   - address: 192.168.1.100
     matches:
       - ".\\.baidu\\.com"
-	  - ".\\.qq\\.com"
+      - ".\\.qq\\.com"
 ```
